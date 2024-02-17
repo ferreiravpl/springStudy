@@ -1,9 +1,7 @@
 package com.springprojet.project.resources;
 
 import com.springprojet.project.entities.Order;
-import com.springprojet.project.entities.User;
 import com.springprojet.project.services.OrderService;
-import com.springprojet.project.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
